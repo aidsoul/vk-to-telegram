@@ -1,0 +1,22 @@
+{
+    "name": "aidsoul/botpvt",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aidsoul",
+            "email": "aidsoul@mail.ru"
+        }
+    ],   
+        "require": {
+        "php": ">=8",
+        "gabordemooij/redbean": "^v5.7.1",
+        "longman/telegram-bot": "^0.74.0"
+        },
+
+    "autoload": {
+        "psr-4":{
+            "Botpvt\\": "src"
+        }
+    }
+    
+}
