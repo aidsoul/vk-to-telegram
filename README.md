@@ -1,5 +1,8 @@
-# vk-to-telegram
+  <a href="https://github.com/aidsoul/vk-to-telegram/releases/latest" title="GitHub release">
+   <img src="https://img.shields.io/github/v/release/aidsoul/vk-to-telegram">
+  </a>
 
+# vk-to-telegram 
 >Parser of groups of the social network "VKontakte", followed by sending data to the channel of the messenger "Telegram".
 
 ## Implemented
