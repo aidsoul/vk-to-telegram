@@ -1,8 +1,8 @@
 <?php
 namespace Botpvt\DataBase;
 
-use \RedBeanPHP\R;
 use Botpvt\Config\Db;
+use \RedBeanPHP\R;
 
 /**
  * Connect
