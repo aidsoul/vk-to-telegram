@@ -2,10 +2,9 @@
 
 namespace Botpvt\Vk;
 
-use Longman\TelegramBot\Telegram;
-
 use Botpvt\Config\Telegram as T;
 use Botpvt\Config\Vk as V;
+use Longman\TelegramBot\Telegram;
 
 /**
  * Vk
