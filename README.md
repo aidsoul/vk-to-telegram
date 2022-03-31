@@ -2,29 +2,7 @@
    <img src="https://img.shields.io/github/v/release/aidsoul/vk-to-telegram">
   </a>
 
-# vk-to-telegram 
->Parser of groups of the social network "VKontakte", followed by sending data to the channel of the messenger "Telegram".
-
-## Implemented
-
->Photo attachments;
->
->Text;
->
->Widgets;
-  >>>Currency rates `Only for the State of Belarus`;
-  >>>
-  >>>Weather;
->
->Admin Panel `Available in the full version`;
->
->Parsing reposts from other VK communities;
-
-## Not implemented
-
->At the moment, there is no possibility of parsing the video!
->
->The code is not optimized.
+# New versions available here: https://github.com/aidsoul/vktote
 
 ## Installation
 
